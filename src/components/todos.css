@@ -1,0 +1,15 @@
+.todosstyle{
+    width: 50%;
+    border-radius: 10px;
+    background-color:rgba(95, 90, 88, 0.331);
+}
+
+@media screen and (max-width: 800px) {
+
+    .todosstyle{
+        width: 70%;
+        border-radius: 10px;
+        background-color:rgba(95, 90, 88, 0.331);
+    }
+  
+  }
